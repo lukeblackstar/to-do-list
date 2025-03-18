@@ -27,7 +27,7 @@ Uma aplicação de lista de tarefas moderna e intuitiva desenvolvida em Java com
 - Java
 - Swing (GUI)
 - Nimbus Look and Feel
-- 
+
 ## Requisitos
 
 - Java JDK 8 ou superior
